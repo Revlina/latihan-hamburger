@@ -93,3 +93,7 @@ a.active, a:hover{
         background-color: bisque;
     }
 }
+h2{
+    font-size: 50px;
+    color: red;
+}
